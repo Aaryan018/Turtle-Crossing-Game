@@ -10,6 +10,10 @@
 8. Thorough use Turtle documemtation has been made to implement different turtle methods.
 
 
-https://user-images.githubusercontent.com/88761228/196042507-dea79da0-940e-49fc-90b0-5f0447db2e6b.mov
 
+
+
+
+
+https://user-images.githubusercontent.com/88761228/196042573-9d76b4cd-9bf7-4ef8-9628-b54ec10f6eb8.mov
 
