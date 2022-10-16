@@ -8,3 +8,8 @@
 6. With increase in each level, the cars starts moving faster.
 7. If the turtle hits the car, player loses and a game over message is displayed.
 8. Thorough use Turtle documemtation has been made to implement different turtle methods.
+
+
+https://user-images.githubusercontent.com/88761228/196042507-dea79da0-940e-49fc-90b0-5f0447db2e6b.mov
+
+
